@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fantastical (Flexibits) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://flexibits.com/
+Fantastical, developed by Flexibits, offers powerful calendar and productivity applications across macOS, iOS, Windows, and Googlebook platforms. Their flagship apps, Fantastical and Cardhop, focus on intuitive scheduling, contact management, and seamless integration with various services, helping users stay organized and efficient. The company emphasizes flexibility, user-friendly design, and continuous feature enhancements to improve personal and professional productivity.
+
+**Areas:** Company · Calendar · Productivity · macOS · iOS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flexibits.com/)
+- [Pricing](https://flexibits.com/pricing)
+- [Support](https://flexibits.com/support)
+- [Blog](https://flexibits.com/blog)
+- [Compliance](https://trust.flexibits.com/)
+- [Terms of service](https://flexibits.com/terms)
+- [Privacy policy](https://flexibits.com/privacy)
+- [GitHub](https://github.com/flexibits)
+- [Status](https://status.flexibits.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/flexibits/](https://apis.io/providers/flexibits/).
